@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "name": "TestVasya",
+      "grade": 10,
+      "id": 1
+    },
+    {
+      "name": "test23123",
+      "grade": 13,
+      "id": 2
+    },
+    {
+      "name": "test233434123",
+      "grade": 13,
+      "id": 3
+    },
+    {
+      "name": "test233434123",
+      "grade": 13,
+      "id": 4
+    },
+    {
+      "name": "test233434123",
+      "grade": 13,
+      "id": 5
+    },
+    {
+      "name": "test233434123",
+      "grade": 13,
+      "id": 6
+    },
+    {
+      "name": "но",
+      "grade": "53",
+      "id": 7
+    },
+    {
+      "name": "jkhjk",
+      "grade": "6",
+      "id": 8
+    },
+    {
+      "name": "bnb",
+      "grade": "34",
+      "id": 9
+    },
+    {
+      "name": "test234",
+      "grade": 11,
+      "id": 10
+    },
+    {
+      "name": "7u7u",
+      "grade": "67",
+      "id": 11
+    },
+    {
+      "name": "nmgbm",
+      "grade": "4",
+      "id": 12
+    },
+    {
+      "name": "тбьрб",
+      "grade": "3",
+      "id": 13
+    },
+    {
+      "name": "пр",
+      "grade": "3",
+      "id": 14
+    }
+  ]
+}
