@@ -1,0 +1,19 @@
+{
+  "name": "internshipinterview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f0s3/InternshipInterview.git"
+  },
+  "author": "f0s3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f0s3/InternshipInterview/issues"
+  },
+  "homepage": "https://github.com/f0s3/InternshipInterview#readme"
+}
